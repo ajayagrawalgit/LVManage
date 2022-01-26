@@ -1,2 +1,2 @@
 # LVManage
-A ONE STOP OPEN SOURCE LVM COMMAND LINE UTILITY
+A One Stop - Open Source LVM Command Line Utility
