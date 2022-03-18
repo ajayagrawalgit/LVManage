@@ -1,7 +1,5 @@
 #!/bin/bash
 
-#pvcreate vala concept bacha h
-
 echo "What Operation you need to Perform ?"
 echo "1. Create a new LVM."
 echo "2. Extend the size of an Existing LVM."
